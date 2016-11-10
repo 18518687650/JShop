@@ -1,4 +1,4 @@
-
+package com.bdqn.test;
 public class chengFaBiao {
 
 	public static void main(String[] args) {
